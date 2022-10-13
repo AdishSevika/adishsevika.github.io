@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978174771718",
+    "firebase_url": "https://cg-match3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cg-match3",
+    "storage_bucket": "cg-match3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978174771718:android:27801b293cd4cb4ba0f987",
+        "android_client_info": {
+          "package_name": "unity.ChainGames.Match3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978174771718-5q34ip13ar9936hepiupmpb6qhqpru3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fRd6n0BlhMxnblQwK8YvqMFWBQIrZ1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978174771718-5q34ip13ar9936hepiupmpb6qhqpru3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
